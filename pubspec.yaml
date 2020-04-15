@@ -1,0 +1,7 @@
+name: geochannel_mobile
+description: dependencies upgrader
+
+dependencies:
+  html: ^0.14.0+3
+  yaml: ^2.2.0
+  http: ^0.12.0+4
